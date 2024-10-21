@@ -27,5 +27,3 @@ Outils : Docker, Git.
 Toujours motivé par l'amélioration continue, j'aime relever des défis techniques et contribuer à des projets à fort impact.
 
 N'hésitez pas à me contacter pour en discuter !
-
-Traduit avec DeepL.com (version gratuite)
